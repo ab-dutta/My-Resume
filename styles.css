@@ -1,0 +1,78 @@
+
+    body {
+      margin: 0;
+    }
+    #mainbox {
+      height: 700px;
+      width: 50%;
+      background-color: rgb(190, 183, 183);
+      margin-left: 25%;
+      margin-top: 100px;
+      margin-bottom: 200px;
+      /*border-radius: 10%;*/
+      
+    }
+    #top {
+      height: 220px;
+      width: 100%;
+      background-color: grey;
+      /*border-radius: 10%;*/
+    }
+    .profile_pic img {
+      height: 160px;
+      width: 140px;
+      border-radius: 20%;
+      position: relative;
+      top: 25px;
+      left: 10%;
+      border: 3px solid;
+      float: left;
+      box-shadow: none;
+    }
+    #top_right {
+      height: 180px;
+      width: 50%;
+      /*background-color: red;*/
+      float: right;
+      margin: 20px 15% 20px 0;
+    }
+    .Summary_content {
+      text-align: left;
+      font-size: 18px;
+    }
+    .Summary_content h2 {
+      font-size: 20px;
+      margin-top: 1px;
+      margin-left: 15px;
+    }
+    .Summary_content p {
+      margin-top: -1px;
+      margin-left: 15px;
+    }
+
+    #bottom_down {
+      height: 400px;
+      width: 80%;
+      /*background-color: red;*/
+      margin: 40px 10% 40px 8%;
+    }
+    .content {
+      padding-left: 0px;
+      padding-top: 0px;
+    }
+    table {
+      border-spacing: 50px 0px;
+      padding: 6px;
+    }
+    th {
+      padding: 20px;
+    }
+    tr {
+      padding: 5px;
+    }
+    footer{
+      padding-left: 30px;
+      /*padding-top: 3px;*/
+      margin-left: 80px;
+    }
+  
